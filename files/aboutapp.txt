@@ -1,0 +1,2 @@
+The Recommendation System is based on tf idf and cosine similarity.
+Search Engine is deployed with Elasticsearch.
